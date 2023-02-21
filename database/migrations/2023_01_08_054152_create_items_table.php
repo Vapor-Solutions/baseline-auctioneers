@@ -15,6 +15,12 @@ return new class extends Migration
     {
         Schema::create('items', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('auction_id')->constrained();
+            $table->string('name');
+            $table->string('description');
+            $table->string('status');
+            $table->unsignedDecimal('starting_bid', 13, 2);
+            $table->string('image_path')->nullable();
             $table->timestamps();
         });
     }

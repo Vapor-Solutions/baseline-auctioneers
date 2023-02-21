@@ -13,20 +13,20 @@
                                 <!-- Banner Content Start -->
                                 <div class="banner--content pd--100-0">
                                     <div class="title animated fadeInDown">
-                                        <h2 class="h1">Lorem Iipsum Dolor Sit Amet Consectetur</h2>
+                                        <h2 class="h1">Expertise, integrity, results: the Baseline Auctioneers way
+                                        </h2>
                                     </div>
 
                                     <div class="sub-title animated fadeIn">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis
-                                            nulla, tempore corrupti iusto sapiente ad repellat! Et facere
-                                            aliquid explicabo, sequi. Assumenda aliquam minima quo sequi illo
-                                            blanditiis pariatur sunt.</p>
+                                        <p>
+                                            At Baseline Auctioneers, we're committed to providing our clients with the
+                                            highest level of expertise, integrity and results. We've built a team of
+                                            experienced auctioneers and professionals who are dedicated to providing you
+                                            with the best possible service. We conduct our auctions with transparency
+                                            and integrity, and we're committed to getting you the best results.
+                                        </p>
                                     </div>
 
-                                    <div class="buttons animated fadeInUp">
-                                        <a href="#" class="btn btn-default active">Buy Now</a>
-                                        <a href="#" class="btn btn-default">Learn More</a>
-                                    </div>
                                 </div>
                                 <!-- Banner Content End -->
                             </div>
@@ -60,19 +60,19 @@
                                 <!-- Banner Content Start -->
                                 <div class="banner--content pd--100-0 text-center">
                                     <div class="title animated fadeInDown">
-                                        <h2 class="h1">Lorem Iipsum Dolor Sit Amet Consectetur</h2>
+                                        <h2 class="h1">Your trusted partner in the auction process</h2>
                                     </div>
 
                                     <div class="sub-title animated fadeIn">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis
-                                            nulla, tempore corrupti iusto sapiente ad repellat! Et facere
-                                            aliquid explicabo, sequi. Assumenda aliquam minima quo sequi illo
-                                            blanditiis pariatur sunt.</p>
-                                    </div>
+                                        <p>
+                                            At Baseline Auctioneers, we understand that the auction process can be
+                                            overwhelming, which is why we're dedicated to being your trusted partner
+                                            throughout the process. We'll guide you through the registration process,
+                                            provide you with all the information you need to make informed bids, and be
+                                            there to answer any questions you have. With us by your side, you can have
+                                            confidence that you're getting a fair deal.
 
-                                    <div class="buttons animated fadeInUp">
-                                        <a href="#" class="btn btn-default active">Buy Now</a>
-                                        <a href="#" class="btn btn-default">Learn More</a>
+                                        </p>
                                     </div>
                                 </div>
                                 <!-- Banner Content End -->

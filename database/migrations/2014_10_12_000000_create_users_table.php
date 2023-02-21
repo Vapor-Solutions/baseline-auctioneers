@@ -25,13 +25,7 @@ return new class extends Migration
             $table->timestamps();
         });
 
-        DB::table('users')->insert([
-            [
-                'name' => 'Steve Nyanumba',
-                'email' => 'reach@stevenyanumba.com',
-                'password' => Hash::make(env('DEFAULT_PASSWORD') ?? '1234567890'),
-            ]
-        ]);
+
     }
 
     /**
