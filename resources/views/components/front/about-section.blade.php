@@ -9,7 +9,7 @@
 
         <!-- About Content Start -->
         <div class="about--content pbottom--60">
-            <h3 class="h3">Lorem ipsum dolor sit amet</h3>
+            <h3 class="h3">Welcome to Baseline Auctioneers</h3>
 
             <p> Baseline Auctioneers is a full-service auctioneering and debt collection firm located in Nairobi. We
                 have years of experience in the industry and a proven track record of success. Our team of experts is
@@ -73,7 +73,7 @@
                                 <h4 class="h3">Our Vision</h4>
 
                                 <p> Our vision at Baseline Auctioneers is to be the premier choice for auctioneering and
-                                    debt collection services in [location] and beyond. We strive to be recognized for
+                                    debt collection services in Kenya. We strive to be recognized for
                                     our exceptional customer service, transparent processes, and outstanding results.
                                 </p>
                                 <p>We see a future where we have expanded our services to reach a wider range of
