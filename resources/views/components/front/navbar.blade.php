@@ -20,31 +20,23 @@
                 <li class=" @if (Request::is('about')) active @endif">
                     <a href="{{ route('about') }}">About</a>
                 </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<span
-                            class="caret"></span></a>
-
-                    <ul class="dropdown-menu">
-                        <li><a href="#">All Services</a></li>
-                        <li><a href="#">Service Details</a></li>
-                    </ul>
+                <li class=" @if (Request::is('services')) active @endif">
+                    <a href="{{ route('services') }}">Services</a>
                 </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<span
-                            class="caret"></span></a>
-
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">Team</a></li>
-                        <li><a href="#">Testimonial</a></li>
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">404</a></li>
-                    </ul>
+                <li class=" @if (Request::is('contact-us')) active @endif">
+                    <a href="{{ route('contact-us') }}">Contact Us</a>
                 </li>
-                <li><a href="#">Contact Us</a></li>
             </ul>
             <!-- Header Nav Links End -->
+            {{-- <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<span
+                        class="caret"></span></a>
 
+                <ul class="dropdown-menu">
+                    <li><a href="#">All Services</a></li>
+                    <li><a href="#">Service Details</a></li>
+                </ul>
+            </li> --}}
             <!-- Header Search Start -->
             <form class="header--search navbar-form float--right hidden-sm hidden-xs" data-form="validate">
                 <input type="search" name="search" placeholder="Search..." class="form-control" autocomplete="off"

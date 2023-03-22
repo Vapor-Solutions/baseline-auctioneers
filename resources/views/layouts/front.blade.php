@@ -72,7 +72,7 @@
                 <div class="container">
                     <ul class="nav float--left">
                         <li class="hidden-xxs">
-                            <a href="tel:+123456123456">
+                            <a href="tel:{{ env('COMPANY_PHONE') }}">
                                 <i class="fa fa-phone"></i>{{ env('COMPANY_PHONE') }}
                             </a>
                         </li>
