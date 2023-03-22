@@ -16,7 +16,7 @@
                 dedicated to providing our clients with the highest level of service and support.
             </p>
             <p> We specialize in conducting live and online auctions for a variety of assets, including real estate,
-                vehicles, machinery, and personal property. Our auctions are well-organized, transparent, and designed
+                vehicles, machinery, and other movable property. Our auctions are well-organized, transparent, and designed
                 to achieve the best results for our clients. Whether you're looking to sell a single item or an entire
                 estate, we have the expertise and resources to get the job done.
             </p>
@@ -33,15 +33,7 @@
                 for a reliable and professional auctioneering and debt collection firm, look no further than Baseline
                 Auctioneers. Contact us today to learn more about how we can help you
             </p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem maiores rem aspernatur. Nam
-                quia quos autem architecto vero at praesentium beatae maiores animi omnis, in numquam sequi
-                eius, deleniti porro.</p>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis architecto, est dicta veniam odit
-                magnam quia natus amet harum at molestias eius, iure rerum fugiat cum deleniti quae eveniet
-                delectus. Ratione labore doloribus soluta incidunt quaerat accusantium aut enim atque repellat
-                ad in optio aliquam nulla voluptas, possimus at iure dolores, delectus porro nostrum saepe nam
-                cum. Enim, quam dicta!</p>
 
             <a href="{{ route('about') }}" class="btn btn-default">Read More</a>
         </div>
