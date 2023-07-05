@@ -14,6 +14,8 @@ use App\Http\Livewire\Admin;
 |
 */
 
+//first commit
+
 Route::get('/', function () {
     return view('pages.home');
 })->name('home');
