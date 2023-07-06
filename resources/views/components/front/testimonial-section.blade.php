@@ -1,8 +1,8 @@
 <!-- Testimonial Section Start -->
-<div class="testimonial--section pd--80-0 bg--overlay" data-bg-img="img/testimonial-img/bg.jpg">
+<div class="testimonial--section pd--80-0 bg--overlay" data-bg-img="/front/img/testimonial-img/bg8.png">
     <div class="container">
         <!-- Section Title Start -->
-        <div class="section--title">
+        <div class="section--title" >
             <h2 class="h2 fa-users">What Our Clients Say</h2>
         </div>
         <!-- Section Title End -->

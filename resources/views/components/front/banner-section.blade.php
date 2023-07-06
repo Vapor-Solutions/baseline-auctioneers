@@ -4,7 +4,7 @@
     <div class="banner--slider owl-carousel" data-owl-nav="true"  data-owl-drag="false" data-owl-animate-in="fadeIn"
         data-owl-animate-out="fadeOut" data-owl-interval="8000">
         <!-- Banner Item Start -->
-        <div class="banner--item bg--overlay" data-bg-img="img/banner-img/bg-01.jpg">
+        <div class="banner--item bg--overlay" data-bg-img="/front/img/banner-img/bg8.png">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -51,7 +51,7 @@
         <!-- Banner Item End -->
 
         <!-- Banner Item Start -->
-        <div class="banner--item bg--overlay" data-bg-img="img/banner-img/bg-02.jpg">
+        <div class="banner--item bg--overlay" data-bg-img="/front/img/banner-img/bg8.png">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
