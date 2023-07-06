@@ -1,5 +1,5 @@
 <!-- Counters Section Start -->
-<div class="counters--section pd--80-0-50" data-bg-parallax="./front/img/counters-img/bg.jpg">
+<div class="counters--section pd--80-0-50" data-bg-parallax="./front/img/counters-img/bg3.png">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-xs-6 col-xxs-12">

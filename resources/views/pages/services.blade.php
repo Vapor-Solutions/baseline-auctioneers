@@ -6,4 +6,5 @@
     <x-slot name="header">All Our Services</x-slot>
     <x-slot name="short">Services</x-slot>
 </x-front.page-header>
+<x-front.services-section></x-front.services-section>
 @endsection

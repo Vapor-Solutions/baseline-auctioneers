@@ -1,5 +1,5 @@
 <!-- Page Header Section Start -->
-<div class="page-header--section pd--80-0 text-center bg--overlay" data-bg-img="/front/img/page-header-img/bg.jpg">
+<div class="page-header--section pd--80-0 text-center bg--overlay" data-bg-img="/front/img/page-header-img/bg1.png">
     <div class="container">
         <h2 class="h1">{{ $header }}</h2>
 

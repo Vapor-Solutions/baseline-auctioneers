@@ -12,16 +12,19 @@
                 <!-- Extra Service Item Start -->
                 <div class="extra-service--item">
                     <div class="icon">
-                        <i class="fa fa-users"></i>
+                        <i class="fa fa-gavel"></i> 
                     </div>
 
                     <div class="title">
-                        <h3 class="h3">Business Consultancy</h3>
+                        <h3 class="h3">Full-service auctioneering</h3>
                     </div>
 
                     <div class="content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque labore animi minus, tempore.
-                            Ducimus id aliquid facere.</p>
+                        <p>
+
+                            Baseline Auctioneers: Your seamless auction solution. Live and online platforms.
+                            Comprehensive services for a rewarding experience. Trust us as your preferred auction
+                            provider.</p>
                     </div>
                 </div>
                 <!-- Extra Service Item End -->
@@ -31,16 +34,18 @@
                 <!-- Extra Service Item Start -->
                 <div class="extra-service--item">
                     <div class="icon">
-                        <i class="fa fa-bar-chart"></i>
+                        <i class="fa fa-money"></i>
                     </div>
 
                     <div class="title">
-                        <h3 class="h3">Help To Grow Business</h3>
+                        <h3 class="h3">Debt collection</h3>
                     </div>
 
                     <div class="content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque labore animi minus, tempore.
-                            Ducimus id aliquid facere.</p>
+                        <p>
+                            Offering professional debt collection services, Baseline Auctioneers diligently works to
+                            recover outstanding debts for businesses and individuals, ensuring a prompt and effective
+                            resolution.</p>
                     </div>
                 </div>
                 <!-- Extra Service Item End -->
@@ -58,8 +63,9 @@
                     </div>
 
                     <div class="content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque labore animi minus, tempore.
-                            Ducimus id aliquid facere.</p>
+                        <p>Experience uninterrupted business operations with our 24/7 support. Our dedicated team is
+                            always there to provide round-the-clock assistance, ensuring your business runs smoothly and
+                            efficiently.</p>
                     </div>
                 </div>
                 <!-- Extra Service Item End -->

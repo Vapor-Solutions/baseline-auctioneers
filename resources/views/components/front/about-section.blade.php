@@ -156,7 +156,7 @@
             <div class="col-sm-4 col-sm-offset-1 col-xs-10 col-xs-offset-1 pbottom--30">
                 <!-- About Image Start -->
                 <div class="about--img">
-                    <img src="/front/img/about-img/about.png" alt="" class="center-block">
+                    <img src="/front/img/about-img/about_main.jpg" height="200" class="center-block" style="display: flex; justify-content: center; align-items: center; margin-top: 100px;">
                 </div>
                 <!-- About Image End -->
             </div>

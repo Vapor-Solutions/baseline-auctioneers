@@ -1,7 +1,7 @@
 <!-- Banner Section Start -->
 <div class="banner--section">
     <!-- Banner Slider Start -->
-    <div class="banner--slider owl-carousel" data-owl-nav="true" data-owl-drag="false" data-owl-animate-in="fadeIn"
+    <div class="banner--slider owl-carousel" data-owl-nav="true"  data-owl-drag="false" data-owl-animate-in="fadeIn"
         data-owl-animate-out="fadeOut" data-owl-interval="8000">
         <!-- Banner Item Start -->
         <div class="banner--item bg--overlay" data-bg-img="img/banner-img/bg-01.jpg">
@@ -38,7 +38,7 @@
                             <div class="vc--child-bottom">
                                 <!-- Banner Image Start -->
                                 <div class="banner--img animated fadeInUp">
-                                    <img src="/front/img/banner-img/slider-img-01.png" alt=""
+                                    <img src="/front/img/banner-img/slider.png" alt=""
                                         class="center-block">
                                 </div>
                                 <!-- Banner Image End -->

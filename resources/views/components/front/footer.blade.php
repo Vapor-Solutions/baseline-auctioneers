@@ -45,10 +45,10 @@
                         <!-- Links Widget Start -->
                         <div class="links--widget">
                             <ul class="nav">
-                                {{-- <li><a href="#">Web Design</a></li>
-                                <li><a href="#">Web Development</a></li>
-                                <li><a href="#">Marketing</a></li>
-                                <li><a href="#">SEO</a></li>
+                                <li><a href="#">Full-service auctioneering</a></li>
+                                <li><a href="#">Debt collection</a></li>
+                                <li><a href="#">24/7 Support</a></li>
+                                {{-- <li><a href="#">SEO</a></li>
                                 <li><a href="#">Writing</a></li> --}}
                             </ul>
                         </div>
