@@ -1,8 +1,8 @@
 <!-- Contact Section Start -->
 <div class="contact--section pd--80-0 bg--color-lightgray">
     <!-- Contact Map Wrapper Start -->
-    <div class="contact--map-wrapper reset--gutter">
-        <div class="col-sm-6 col-sm-offset-6">
+    <div class="contact--map-wrapper reset--gutter" >
+        <div wire:ignore class="col-sm-6 col-sm-offset-6">
             <!-- Contact Map Start -->
             <div id="map" class="contact--map" data-map-latitude="-1.266809440887002"
                 data-map-longitude="36.76542316456387" data-map-zoom="17"

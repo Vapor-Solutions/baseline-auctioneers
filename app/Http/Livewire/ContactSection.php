@@ -18,8 +18,11 @@ class ContactSection extends Component
         'body'=>'required',
     ];
 
+
     function send()
     {
+
+        $this->emit('refreshMap');
         $this->validate();
 
         SendContactDetailsJob::dispatch(new SendContactEmail([

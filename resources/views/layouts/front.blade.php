@@ -152,7 +152,11 @@
     @livewireScripts()
 
     <script>
+        Livewire.on('refreshMap', () => {
+            google.maps.event.trigger(map, 'resize');
+        })
         Livewire.on('done', (e) => {
+
             if (e.success) {
                 Toast.fire({
                     icon: 'success',
