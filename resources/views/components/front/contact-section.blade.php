@@ -21,7 +21,7 @@
                         <h2 class="h3">Contact Us</h2>
                     </div>
 
-                    <form id="contact-form" action="php/sendmail.php" data-form="validate">
+                    <form id="contact-form"  data-form="validate">
                         <div class="form-group">
                             <input type="text" name="name" placeholder="John Doe"
                                 class="form-control contact-name" required>

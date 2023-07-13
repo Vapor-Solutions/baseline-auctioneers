@@ -46,6 +46,10 @@
     <!-- Custom Stylesheet -->
     <link rel="stylesheet" href="/front/css/custom.css">
 
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+
+    @livewireStyles()
+
     <!-- ==== HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries ==== -->
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -144,6 +148,40 @@
 
     <!-- Main Script -->
     <script src="/front/js/main.js"></script>
+
+    @livewireScripts()
+
+    <script>
+        Livewire.on('done', (e) => {
+            if (e.success) {
+                Toast.fire({
+                    icon: 'success',
+                    text: e.success
+                })
+            }
+            if (e.warning) {
+                Toast.fire({
+                    icon: 'warning',
+                    text: e.warning
+                })
+            }
+            if (e.info) {
+                Toast.fire({
+                    icon: 'info',
+                    text: e.info
+                })
+            }
+            if (e.error) {
+                Toast.fire({
+                    icon: 'error',
+                    text: e.error
+                })
+            }
+        });
+
+
+        // $('#datatable').DataTable();
+    </script>
 
 </body>
 
