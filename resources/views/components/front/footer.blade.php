@@ -45,9 +45,12 @@
                         <!-- Links Widget Start -->
                         <div class="links--widget">
                             <ul class="nav">
-                                <li><a href="#">Full-service auctioneering</a></li>
-                                <li><a href="#">Debt collection</a></li>
-                                <li><a href="#">24/7 Support</a></li>
+                                <li><a href="{{ route('services') }}">Auctioneering</a></li>
+                                <li><a href="{{ route('services') }}">Debt collection</a></li>
+                                <li><a href="{{ route('services') }}">Official Brokerage</a></li>
+                                <li><a href="{{ route('services') }}">Private Investigations</a></li>
+                                <li><a href="{{ route('services') }}">Repossessions</a></li>
+                                <li><a href="{{ route('services') }}">Distress for rent</a></li>
                                 {{-- <li><a href="#">SEO</a></li>
                                 <li><a href="#">Writing</a></li> --}}
                             </ul>

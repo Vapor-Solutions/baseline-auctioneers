@@ -2,7 +2,7 @@
 <div class="counters--section pd--80-0-50" data-bg-parallax="./front/img/counters-img/bg9.png">
     <div class="container">
         <div class="row">
-            <div class="col-md-3 col-xs-6 col-xxs-12">
+            <div class="col-md-4 col-xs-6 col-xxs-12">
                 <!-- Counter Item Start -->
                 <div class="counter--item">
                     <div class="icon">
@@ -10,7 +10,7 @@
                     </div>
 
                     <div class="number h1">
-                        <p><span data-counter-up="number">800</span>+</p>
+                        <p><span data-counter-up="number">15</span>+</p>
                     </div>
 
                     <div class="title">
@@ -20,7 +20,7 @@
                 <!-- Counter Item Start -->
             </div>
 
-            <div class="col-md-3 col-xs-6 col-xxs-12">
+            <div class="col-md-4 col-xs-6 col-xxs-12">
                 <!-- Counter Item Start -->
                 <div class="counter--item">
                     <div class="icon">
@@ -28,7 +28,7 @@
                     </div>
 
                     <div class="number h1">
-                        <p><span data-counter-up="number">200</span>+</p>
+                        <p><span data-counter-up="number">15</span>+</p>
                     </div>
 
                     <div class="title">
@@ -38,7 +38,7 @@
                 <!-- Counter Item Start -->
             </div>
 
-            <div class="col-md-3 col-xs-6 col-xxs-12">
+            {{-- <div class="col-md-3 col-xs-6 col-xxs-12">
                 <!-- Counter Item Start -->
                 <div class="counter--item">
                     <div class="icon">
@@ -54,9 +54,9 @@
                     </div>
                 </div>
                 <!-- Counter Item Start -->
-            </div>
+            </div> --}}
 
-            <div class="col-md-3 col-xs-6 col-xxs-12">
+            <div class="col-md-4 col-xs-6 col-xxs-12">
                 <!-- Counter Item Start -->
                 <div class="counter--item">
                     <div class="icon">
@@ -64,7 +64,7 @@
                     </div>
 
                     <div class="number h1">
-                        <p><span data-counter-up="number">60</span>+</p>
+                        <p><span data-counter-up="number">5</span>+</p>
                     </div>
 
                     <div class="title">

@@ -16,12 +16,11 @@
                     </div>
 
                     <div class="title">
-                        <h3 class="h3">Full-service auctioneering</h3>
+                        <h3 class="h3">Auctioneering</h3>
                     </div>
 
                     <div class="content">
                         <p>
-
                             Baseline Auctioneers: Your seamless auction solution. Live and online platforms.
                             Comprehensive services for a rewarding experience. Trust us as your preferred auction
                             provider.</p>
@@ -59,13 +58,12 @@
                     </div>
 
                     <div class="title">
-                        <h3 class="h3">24/7 Support</h3>
+                        <h3 class="h3">Official Brokerage</h3>
                     </div>
 
                     <div class="content">
-                        <p>Experience uninterrupted business operations with our 24/7 support. Our dedicated team is
-                            always there to provide round-the-clock assistance, ensuring your business runs smoothly and
-                            efficiently.</p>
+                        <p>We act as trusted intermediaries in various financial transactions, providing expert guidance
+                            to ensure compliance with regulatory standards, making your deals smooth and secure..</p>
                     </div>
                 </div>
                 <!-- Extra Service Item End -->

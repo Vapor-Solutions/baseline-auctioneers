@@ -17,17 +17,25 @@
                 </div>
 
                 <div class="col-sm-5 col-xs-12 pbottom--60">
-                    <p><img src="/front/img/about-details-img/bg5.png" alt=""></p>
+                    <p><img src="/front/img/about-details-img/bg5.jpg" alt=""></p>
                 </div>
 
                 <div class="col-sm-7 col-xs-12 pbottom--60">
                     <h2 class="h2">Our History</h2>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi est voluptatem ipsa. Deserunt
-                        voluptatibus culpa beatae, dolorem architecto voluptates odio accusantium doloremque nostrum
-                        ipsum, vitae quaerat veritatis totam ab? Ad!</p>
+                    <p>Baseline Auctioneers was founded in October 1995 by Richard N. Nyariki, and our journey has been
+                        one of continuous growth and achievement. We started as Auctioneers Class A and have since
+                        elevated ourselves to the pinnacle of our field, reaching Class B, the highest classification an
+                        auctioneer can attain. This remarkable progress reflects our unwavering commitment to
+                        excellence.</p>
+                    <p>As we've expanded our reach, we now operate in a broad spectrum of regions,
+                        including Nairobi, Mombasa, Nakuru, Kiambu, Kajiado, Machakos, Kwale, and Taita Taveta counties.
+                        Notably, our expertise extends nationwide, particularly in assignments such as the sale of
+                        immovable property and the realization of security assets, where we conduct business all across
+                        Kenya. Our rich history is defined by a dedication to professionalism and a passion for serving
+                        our clients with the highest level of expertise and integrity..</p>
 
-                    <ul class="timeline">
+                    {{-- <ul class="timeline">
                         <li>
                             <div class="title">
                                 <strong>2015</strong>
@@ -68,7 +76,7 @@
                                     exercitationem voluptatibus esse maxime.</p>
                             </div>
                         </li>
-                    </ul>
+                    </ul> --}}
                 </div>
 
                 <div class="col-sm-7 col-xs-12 pbottom--60"
@@ -166,6 +174,47 @@
                     <p><img src="/front/img/about-details-img/goals.jpg" alt=""
                             style="display: flex; justify-content: center; align-items: center; margin-top: 100px;"></p>
                 </div>
+            </div>
+            <div class="about--content pbottom--60">
+                <h3 class="h3">Experience and Achievements </h3>
+
+                <p> Since our establishment, we have worked for the following institutions;
+                </p>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <ul>
+                                <li class="done">The Official Receiver and Interim Liquidator.</li>
+                                <li class="done">Kenya Deposit Insurance Corporation.</li>
+                                <li class="done">Kenya Commercial Bank Ltd</li>
+                                <li class="done">Cooperative Bank</li>
+                                <li class="done">NCBA, Credit Bank (K) Ltd</li>
+                                <li class="done">Bank of Baroda (k) ltd</li>
+                                <li class="done">HFC</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul>
+                                <li class="done">Barclays Bank</li>
+                                <li class="done">Musyoka Murambi & Associates</li>
+                                <li class="done">Jackline P.A. Omolo Advocates</li>
+                                <li class="done">E. M Juma</li>
+                                <li class="done">Madoya & Associates</li>
+                                <li class="done">G & G Advocates</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <p>
+                    At Baseline Auctioneers, we've effectively executed our duties on behalf of various
+                    institutions, collaborating with legal authorities to realize securities. In cases where
+                    auctions or repossessions fell short, we've provided timely reports and recommendations for
+                    optimal recovery. Our extensive experience includes nationwide security takeovers, notably in
+                    Nairobi, resulting in successful revenue collection. Our established reputation and strong
+                    relationships with clients are reflected in our substantial workload. We have numerous recent
+                    success stories available upon request, and we eagerly anticipate the opportunity to work with
+                    you at Baseline Auctioneers, where we strive to be "The Best Auction Like None."</p>
             </div>
         </div>
         <!-- About Details Content End -->

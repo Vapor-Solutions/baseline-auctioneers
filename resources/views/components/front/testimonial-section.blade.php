@@ -1,5 +1,5 @@
 <!-- Testimonial Section Start -->
-<div class="testimonial--section pd--80-0 bg--overlay" data-bg-img="/front/img/testimonial-img/bg8.png">
+<div class="testimonial--section pd--80-0 bg--overlay" data-bg-img="/front/img/testimonial-img/bg10.png">
     <div class="container">
         <!-- Section Title Start -->
         <div class="section--title" >
